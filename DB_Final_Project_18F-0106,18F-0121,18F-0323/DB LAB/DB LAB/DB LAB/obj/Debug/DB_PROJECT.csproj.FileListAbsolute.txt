@@ -1,0 +1,343 @@
+D:\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+D:\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+D:\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+D:\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csprojAssemblyReference.cache
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.GenerateResource.cache
+D:\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CoreCompileInputs.cache
+D:\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+D:\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Patient_Form.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Patient.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Patient.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Discharge_Patient.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Patient.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Isolation_Ward.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Quarantine_Ward.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form2.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward2.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward2.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward2.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward2.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS1.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Isolation.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Patient.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Quarantine.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csprojResolveAssemblyReference.cache
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward2.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Discharge_Patient.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Isolation.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Patient.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Quarantine.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Isolation_Ward.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS1.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patient_Form.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Quarantine_Ward.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Patient.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward2.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Patient.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward2.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Patient.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward2.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form2.resources
+D:\Fast CFD 18\Spring 2020\Database Lab\Final Project\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.GenerateResource.Cache
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csprojAssemblyReference.cache
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward2.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Discharge_Patient.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Isolation.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Patient.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Quarantine.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Isolation_Ward.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS1.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patient_Form.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Quarantine_Ward.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Patient.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward2.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Patient.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward2.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Patient.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward2.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form2.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.GenerateResource.cache
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csprojAssemblyReference.cache
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward2.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Discharge_Patient.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Isolation.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Patient.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Quarantine.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Isolation_Ward.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS1.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patient_Form.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Quarantine_Ward.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Patient.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward2.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Patient.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward2.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Patient.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward2.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form2.resources
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.GenerateResource.cache
+D:\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CoreCompileInputs.cache
+D:\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+D:\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+D:\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csprojAssemblyReference.cache
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward2.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Discharge_Patient.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Isolation.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Patient.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Quarantine.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Isolation_Ward.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS1.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patient_Form.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Quarantine_Ward.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Patient.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward2.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Patient.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward2.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Patient.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward2.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form2.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.GenerateResource.cache
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CoreCompileInputs.cache
+G:\lab work\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+G:\lab work\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+G:\lab work\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Preventing.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Treatment.resources
+G:\lab work\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Expose_to.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Expose_to.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Preventing.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Treatment.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\World.xml
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.dll
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.pdb
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.xml
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Map_Form.resources
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CopyComplete
+C:\Users\Softsys\Downloads\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FocusLogics.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\World.xml
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.dll
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.pdb
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.xml
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward2.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Discharge_Patient.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Expose_to.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FocusLogics.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Isolation.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Patient.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Quarantine.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Isolation_Ward.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS1.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Map_Form.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patient_Form.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Preventing.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Quarantine_Ward.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Patient.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward2.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Patient.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward2.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Treatment.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Patient.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward2.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form2.resources
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CopyComplete
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\World.xml
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.dll
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.dll
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.dll
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.pdb
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.xml
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.pdb
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.WinForms.xml
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.pdb
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\LiveCharts.Wpf.xml
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csprojAssemblyReference.cache
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Delete_Ward2.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Discharge_Patient.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Expose_to.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FocusLogics.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Isolation.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Patient.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.FUNC_Quarantine.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Isolation_Ward.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.LOS1.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Map_Form.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Patient_Form.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Preventing.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Quarantine_Ward.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Patient.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Search_Ward2.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Patient.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Show_Ward2.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Treatment.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Patient.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Update_Ward2.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_LAB.Ward_Form2.resources
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.GenerateResource.cache
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CoreCompileInputs.cache
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB_PROJECT.csproj.CopyComplete
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\DBproj.mdf
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\DBproj_log.ldf
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.exe.manifest
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\bin\Debug\DB LAB.application
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.exe.manifest
+G:\BSCS\4th Semester\DB Lab\Project\DB_Final_Project_18F-0106,18F-0121,18F-0323\DB LAB\DB LAB\DB LAB\obj\Debug\DB LAB.application

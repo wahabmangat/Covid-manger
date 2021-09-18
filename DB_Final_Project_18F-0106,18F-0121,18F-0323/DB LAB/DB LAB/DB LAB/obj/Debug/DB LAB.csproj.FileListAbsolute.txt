@@ -1,0 +1,38 @@
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB LAB.csprojAssemblyReference.cache
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB LAB.csproj.GenerateResource.cache
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB LAB.csproj.CoreCompileInputs.cache
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+C:\Users\Softsys\source\repos\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+D:\DB LAB\DB LAB\bin\Debug\DB LAB.exe.config
+D:\DB LAB\DB LAB\bin\Debug\DB LAB.exe
+D:\DB LAB\DB LAB\bin\Debug\DB LAB.pdb
+D:\DB LAB\DB LAB\obj\Debug\DB LAB.csprojAssemblyReference.cache
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Areas.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.CallCenter.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Form1.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Information.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Operator.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Paramadics.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Patients.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.People.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Properties.Resources.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Symptoms.resources
+D:\DB LAB\DB LAB\obj\Debug\DB_LAB.Wards.resources
+D:\DB LAB\DB LAB\obj\Debug\DB LAB.csproj.GenerateResource.cache
+D:\DB LAB\DB LAB\obj\Debug\DB LAB.csproj.CoreCompileInputs.cache
+D:\DB LAB\DB LAB\obj\Debug\DB LAB.exe
+D:\DB LAB\DB LAB\obj\Debug\DB LAB.pdb
